@@ -12,4 +12,4 @@ Sou um desenvolvedor FullStack:computer:
   <br /> 💬 Sobre mim: Tecnologias Curto, jogos de FPS e RPG,seriados e filmes
   <br /> :mailbox_with_mail:
     Entre em contato comigo: Linkedin: (https://www.linkedin.com/in/kleyton-gon%C3%A7alves-ba396a8a/).<br />
-                             Email::e-mail: (kleytonlucas80@gmail.com)
+                             :e-mail:Email: (kleytonlucas80@gmail.com)
