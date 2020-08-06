@@ -11,8 +11,8 @@ Sou apaixonado por programação.
   <br /> :computer: Minha stack ReactJS, Node.js
   <br /> 💬 Sobre mim: Tecnologias Curto, jogos de FPS e RPG,seriados e filmes
   <br /> :mailbox_with_mail:
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kleyton-gon%C3%A7alves-ba396a8a/)](https://www.linkedin.com/in/kleyton-gon%C3%A7alves-ba396a8a/) 
+
+  [![Linkedin Badge](https://img.shields.io/badge/-KleytonLucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kleyton-gon%C3%A7alves-ba396a8a/)](https://www.linkedin.com/in/kleyton-gon%C3%A7alves-ba396a8a/) 
   | 
-  [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kleytonlucas80@gmail.com)](mailto:kleytonlucas80@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-kleytonlucas80@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kleytonlucas80@gmail.com)](mailto:kleytonlucas80@gmail.com)
   
