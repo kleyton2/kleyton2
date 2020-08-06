@@ -4,12 +4,15 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por programação.
-Sou um desenvolvedor FullStack:computer:
+  <br />desenvolvedor FullStack:computer:
 
-  Estou atualmente em busca de uma oportunidade no mercado de trabalho para mostrar meu valor e o que venho aprendendo  <br /> :purple_heart: Buscando colaborar com Projetos em Front-end usando ReactJS
+  <br /> :purple_heart: Buscando colaborar com Projetos em Front-end usando ReactJS
   <br /> :space_invader: Posso te Ajudar com CSS,HTML,JS..
   <br /> :computer: Minha stack ReactJS, Node.js
   <br /> 💬 Sobre mim: Tecnologias Curto, jogos de FPS e RPG,seriados e filmes
   <br /> :mailbox_with_mail:
-    Entre em contato comigo: Linkedin: (https://www.linkedin.com/in/kleyton-gon%C3%A7alves-ba396a8a/).<br />
-                             :e-mail:Email: (kleytonlucas80@gmail.com)
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kleyton-gon%C3%A7alves-ba396a8a/)](https://www.linkedin.com/in/kleyton-gon%C3%A7alves-ba396a8a/) 
+  | 
+  [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kleytonlucas80@gmail.com)](mailto:kleytonlucas80@gmail.com)
+  
