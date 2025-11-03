@@ -6,7 +6,7 @@
 Sou apaixonado por programação.
   <br />desenvolvedor FullStack:computer:
 
-  <br /> :purple_heart: Buscando colaborar com Projetos em Front-end usando ReactJS
+  <br /> :purple_heart: Buscando colaborar com Projetos em FullStack usando React e Node
   <br /> :space_invader: Posso te Ajudar com CSS,HTML,JS,TS,NODE..
   <br /> :computer: Minha stack ReactJS, Node.js
   <br /> 💬 Sobre mim: Tecnologias Curto, jogos de FPS e RPG,seriados e filmes
@@ -17,3 +17,4 @@ Sou apaixonado por programação.
 
   
   
+
