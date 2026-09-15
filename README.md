@@ -6,7 +6,6 @@
 Sou apaixonado por programação.
   <br />Desenvolvedor Web Júnior | React | TypeScript | Node.js:computer:
 
-  <br /> :purple_heart: Buscando colaborar com Projetos em FullStack usando React e Node
   <br /> :space_invader: Posso te Ajudar com CSS,HTML,JS,TS,NODE..
   <br /> :computer: Minha stack ReactJS, Node.js
   <br /> 💬 Sobre mim: Formado em Análise e Desenvolvimento de Sistemas. Desenvolvo aplicações web utilizando React, TypeScript e Node.js, com experiência prática em APIs REST, Firebase, Git/GitHub e AWS. Atualmente buscando minha primeira oportunidade profissional em tecnologia.
